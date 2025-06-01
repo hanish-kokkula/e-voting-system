@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1748412812196,
+    "voteData": {
+      "hashedVoterId": "Genesis Block",
+      "candidateId": "Genesis"
+    },
+    "previousHash": "0",
+    "hash": "150b330396ef8d70f8e3737f9f4e7f81687c02a266dc130c00dc7b557c48f25e",
+    "nonce": 0
+  },
+  {
+    "index": 1,
+    "timestamp": 1748801533429,
+    "voteData": {
+      "hashedVoterId": "49f81b4c7c8e9e78443aa35aec0e5465eb8ebe31a74bdc14304045cf8031d3d7",
+      "candidateId": "6836c8400ec77008c98baa4a",
+      "electionId": "6836c8400ec77008c98baa4f"
+    },
+    "previousHash": "150b330396ef8d70f8e3737f9f4e7f81687c02a266dc130c00dc7b557c48f25e",
+    "hash": "0042a4411b49f2688714597787b936108e1a0aa0b5cc2abc48affdbb1881b9fd",
+    "nonce": 33
+  },
+  {
+    "index": 2,
+    "timestamp": 1748805506661,
+    "voteData": {
+      "hashedVoterId": "cb901521a05bcaa0d5fd5b2d90196f82d5b90ca798c604adb11b9ccfd8d97fb4",
+      "candidateId": "6836c8400ec77008c98baa49",
+      "electionId": "6836c8400ec77008c98baa4f"
+    },
+    "previousHash": "0042a4411b49f2688714597787b936108e1a0aa0b5cc2abc48affdbb1881b9fd",
+    "hash": "003e6102c201a89a878a304bf2bbab8c7cd4158697f27fa0ac28df27af204cbd",
+    "nonce": 197
+  }
+]
